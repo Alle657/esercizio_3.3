@@ -1,0 +1,3 @@
+C:/Users/Utente/Desktop/Documenti Alle/esercizo_3.3/cmake-build-debug/CMakeFiles/esercizo_3_3.dir
+C:/Users/Utente/Desktop/Documenti Alle/esercizo_3.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utente/Desktop/Documenti Alle/esercizo_3.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
